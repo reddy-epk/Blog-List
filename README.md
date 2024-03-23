@@ -1,4 +1,4 @@
-In this project, let's build a **Blog List** by applying the concepts we have learned till now.
+Building a React **Blog List** app.
 
 ### Refer to the image below:
 
@@ -25,26 +25,6 @@ In this project, let's build a **Blog List** by applying the concepts we have le
 
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
-</details>
-
-### Completion Instructions
-
-<details>
-<summary>Functionality to be added</summary>
-<br/>
-
-The app must have the following functionalities
-
-- In the Home Route, user info and blog list should be displayed
-- The `Home` component is provided with `blogsList`. It consists of a list of blog details objects with the following properties in each object
-
-  |      Key      | Data Type |
-  | :-----------: | :-------: |
-  |      id       |  Number   |
-  |     title     |  String   |
-  |  description  |  String   |
-  | publishedDate |  String   |
-
 </details>
 
 <details>
@@ -85,7 +65,7 @@ Use these files to complete the implementation:
 - `Home` route should consist of `/` in the URL path
 - `About` route should consist of `/about` in the URL path
 - `Contact` route should consist of `/contact` in the URL path
-- No need to use the `BrowserRouter` in `App.js` as we have already included in `index.js` file
+- No need to use the `BrowserRouter` in `App.js` as  already included in `index.js` file
 
 </details>
 
